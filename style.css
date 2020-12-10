@@ -1,0 +1,17 @@
+
+
+
+
+
+body{
+     background-repeat: no-repeat;
+     width:100%;
+     background-image:url(MaterialeEsercizioLim/background.jpg);
+   }
+
+
+
+ .centro{
+  text-align: left;
+  margin:auto;
+ }
